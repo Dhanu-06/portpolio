@@ -1,0 +1,18 @@
+HOW TO ADD YOUR RESUME (so Download Resume works)
+================================================
+
+1. Export your resume from Word/Google Docs as a PDF file.
+
+2. Rename the file exactly to:  resume.pdf
+
+3. Copy it into this folder:
+   c:\Users\dhanu\Portfolio\portpolio\public\resume.pdf
+
+   (Same folder as this HOW_TO_ADD_RESUME.txt file)
+
+4. Restart the dev server if it's running:
+   npm run dev
+
+5. Click "Download Resume" — the PDF should download.
+
+If the file is missing, the button will open a 404 page.
